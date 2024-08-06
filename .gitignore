@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignoring the Custom Virtual Environment
+AIenv/*
+*/AIenv
