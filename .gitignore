@@ -126,3 +126,6 @@ dmypy.json
 # Ignoring the Custom Virtual Environment
 AIenv/*
 */AIenv
+
+Notes/7) GenAI/genaiEnv/*
+*/Notes/7) GenAI/genaiEnv
